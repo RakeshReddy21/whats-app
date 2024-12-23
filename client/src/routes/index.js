@@ -19,7 +19,7 @@ const router = createBrowserRouter([
             element : <AuthLayouts><RegisterPage/></AuthLayouts>
         },
         {
-            path : 'email',
+            path : '',
             element : <AuthLayouts><CheckEmailPage/></AuthLayouts>
         },
         {
@@ -31,7 +31,7 @@ const router = createBrowserRouter([
             element : <AuthLayouts><Forgotpassword/></AuthLayouts>
         },
         {
-            path : "",
+            path : "home",
             element : <Home/>,
             children : [
                 {

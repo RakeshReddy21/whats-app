@@ -1,1 +1,1 @@
-# what's-app  --  MERN Stack
+# what's-app  --  MERN
