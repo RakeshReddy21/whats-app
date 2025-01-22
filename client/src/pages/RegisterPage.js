@@ -66,7 +66,7 @@ const RegisterPage = () => {
               profile_pic : ""
             })
 
-            navigate('/email')
+            navigate('/')
 
         }
     } catch (error) {
