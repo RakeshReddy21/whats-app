@@ -1,4 +1,4 @@
-# WhatsApp Clone --> Using MERN Stack
+# Real time chat application - (what's clone) Using MERN Stack
 
 A real-time chat application inspired by WhatsApp, built to enable seamless communication between users with features like real-time messaging, user authentication, and a modern UI/UX.
 
