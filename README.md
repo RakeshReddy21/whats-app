@@ -28,7 +28,6 @@ A real-time chat application inspired by WhatsApp, built to enable seamless comm
 
 ## **Deployment Links**
 - **Live Application**: [Chat App](https://chat-frontend-ashy.vercel.app/)
-- **Backend**: Hosted on Render at [https://chat-backend-idfm.onrender.com](https://chat-backend-idfm.onrender.com)
 
 ## **Features**
 1. Real-time messaging using Socket.IO.
