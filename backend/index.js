@@ -30,3 +30,6 @@ connectDB().then(()=>{
         console.log("server running at " + PORT)
     })
 })
+
+
+// This is for creating the server
