@@ -103,3 +103,6 @@ const CheckEmailPage = () => {
 };
 
 export default CheckEmailPage;
+
+
+//this is the index page or first page of the project to validate the email from database
